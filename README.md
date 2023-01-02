@@ -23,7 +23,7 @@ data:
 * DOM => yyyy-MM-dd
 
 #### Question C ####
-Perform CRUD operation using preparedStatement: 
+Perform CRUD operation using PreparedStatement: 
 * 1- Insert
 * 2- Update
 * 3- Select
