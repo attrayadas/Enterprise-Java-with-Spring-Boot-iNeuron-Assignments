@@ -3,7 +3,7 @@
 The repository contains all the solutions to all the assignments that were given to us as part of our Enterprise Java with Spring Boot batch on iNeuron.
 
 
-## Assignment 3 (JDBC)
+## Assignment 4 (JDBC)
 
 #### Question A ####
 Give the menu to the user as the operation listed below on student table:
