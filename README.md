@@ -2,6 +2,23 @@
 # Enterprise-Java-with-Spring-Boot-iNeuron-Assignments
 The repository contains all the solutions to all the assignments that were given to us as part of our Enterprise Java with Spring Boot batch on iNeuron.
 
+## Assignment 3 (String)
+
+#### Question A ####
+WAP to reverse a String.
+Input: “iNeuron”
+Output: “norueNi”
+
+#### Question B ####
+WAP to reverse a sentence while preserving the position.
+Input : “Think Twice”
+Output : “kniht eciwt”
+
+#### Question C ####
+WAP to check if the String is Anagram or not.
+
+#### Question D ####
+WAP to check if the String is a Pangram or not.
 
 ## Assignment 4 (JDBC)
 
