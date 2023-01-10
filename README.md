@@ -3,69 +3,7 @@
 The repository contains all the solutions to all the assignments that were given to us as part of our Enterprise Java with Spring Boot batch on iNeuron.
 
 ## Assignment 1 (Pattern Printing)
-
-#### Question A ####
-Write a program(WAP) to print INEURON using pattern programming logic.
-
-#### Question B ####
-Write a program to print
-  1 1 1 1
-  2 2 2 2
-  3 3 3 3
-  4 4 4 4
-
-#### Question C ####
-WAP to print:
-  **************
-  ****** *******
-  *****   ******
-  ****     *****
-  ***       ****
-  **         ***
-  *           **
-  *            *
-  *            *
-  *            *
-  *            *
-  *            *
-  *            *
-  **************`
-
-#### Question D ####
-WAP to print:
-  	               
-               
-               
-               
-               
-               
-               
- 	*             *
- 	**           **
- 	***         ***
- 	****       ****
- 	*****     *****
- 	******   ******
- 	******* *******
- 	***************
-
-#### Question E ####
-WAP to print:
-  ***************
- 	*******        
- 	******         
- 	*****          
- 	****           
- 	***            
- 	**             
- 	*              
- 	**             
- 	***            
- 	****           
- 	*****          
- 	******         
- 	*******        
- 	***************
+[Assignment 1.pdf](https://github.com/attrayadas/Enterprise-Java-with-Spring-Boot-iNeuron-Assignments/files/10385190/Assignment.1.pdf)
 
 ## Assignment 3 (String)
 
